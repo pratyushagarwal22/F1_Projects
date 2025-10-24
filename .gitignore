@@ -1,0 +1,16 @@
+# Project caches
+f1_cache/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Envs & secrets
+.venv/
+.env
+.env.*
+
+# OS/editor
+.DS_Store
+.vscode/
