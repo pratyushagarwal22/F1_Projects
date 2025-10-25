@@ -1,0 +1,12 @@
+# data & cache
+
+data/
+f1_cache/
+cache/
+logs/
+
+# Notebooks junk
+.ipynb_checkpoints
+
+# OS
+.DS_Store
