@@ -1,0 +1,147 @@
+{
+  "session_key": "2024_01_R",
+  "rows": {
+    "fact_laps": 1129,
+    "fact_pitstops": 0,
+    "fact_weather": 157,
+    "dim_drivers": 20
+  },
+  "drivers": [
+    "Alexander Albon",
+    "Carlos Sainz",
+    "Charles Leclerc",
+    "Daniel Ricciardo",
+    "Esteban Ocon",
+    "Fernando Alonso",
+    "George Russell",
+    "Guanyu Zhou",
+    "Kevin Magnussen",
+    "Lance Stroll",
+    "Lando Norris",
+    "Lewis Hamilton",
+    "Logan Sargeant",
+    "Max Verstappen",
+    "Nico Hulkenberg",
+    "Oscar Piastri",
+    "Pierre Gasly",
+    "Sergio Perez",
+    "Valtteri Bottas",
+    "Yuki Tsunoda"
+  ],
+  "pace_top10": [
+    {
+      "driver_number": "1",
+      "full_name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "laps": 53,
+      "avg_ms": 95685.15094339622,
+      "std_ms": 1079.7944497454187,
+      "p10": 94342.0,
+      "p50": 95581.0,
+      "p90": 97077.0
+    },
+    {
+      "driver_number": "11",
+      "full_name": "Sergio Perez",
+      "team": "Red Bull Racing",
+      "laps": 53,
+      "avg_ms": 96115.56603773584,
+      "std_ms": 1168.2566813161209,
+      "p10": 94743.4,
+      "p50": 96226.0,
+      "p90": 97801.2
+    },
+    {
+      "driver_number": "55",
+      "full_name": "Carlos Sainz",
+      "team": "Ferrari",
+      "laps": 53,
+      "avg_ms": 96188.30188679245,
+      "std_ms": 1222.4826502608207,
+      "p10": 94854.6,
+      "p50": 96149.0,
+      "p90": 97724.0
+    },
+    {
+      "driver_number": "16",
+      "full_name": "Charles Leclerc",
+      "team": "Ferrari",
+      "laps": 53,
+      "avg_ms": 96404.2075471698,
+      "std_ms": 1142.0705615828838,
+      "p10": 95032.6,
+      "p50": 96760.0,
+      "p90": 97876.0
+    },
+    {
+      "driver_number": "63",
+      "full_name": "George Russell",
+      "team": "Mercedes",
+      "laps": 53,
+      "avg_ms": 96526.09433962264,
+      "std_ms": 955.5236434733482,
+      "p10": 95211.4,
+      "p50": 96635.0,
+      "p90": 97783.6
+    },
+    {
+      "driver_number": "4",
+      "full_name": "Lando Norris",
+      "team": "McLaren",
+      "laps": 53,
+      "avg_ms": 96571.15094339622,
+      "std_ms": 1267.6046368010204,
+      "p10": 95187.2,
+      "p50": 96566.0,
+      "p90": 97995.2
+    },
+    {
+      "driver_number": "44",
+      "full_name": "Lewis Hamilton",
+      "team": "Mercedes",
+      "laps": 53,
+      "avg_ms": 96620.03773584905,
+      "std_ms": 1445.5650340885481,
+      "p10": 95066.6,
+      "p50": 96666.0,
+      "p90": 98265.6
+    },
+    {
+      "driver_number": "81",
+      "full_name": "Oscar Piastri",
+      "team": "McLaren",
+      "laps": 53,
+      "avg_ms": 96650.60377358491,
+      "std_ms": 1317.568000575045,
+      "p10": 95242.0,
+      "p50": 96680.0,
+      "p90": 98055.2
+    },
+    {
+      "driver_number": "27",
+      "full_name": "Nico Hulkenberg",
+      "team": "Haas F1 Team",
+      "laps": 50,
+      "avg_ms": 96854.68,
+      "std_ms": 1067.070956460929,
+      "p10": 95467.2,
+      "p50": 96816.0,
+      "p90": 97891.5
+    },
+    {
+      "driver_number": "14",
+      "full_name": "Fernando Alonso",
+      "team": "Aston Martin",
+      "laps": 53,
+      "avg_ms": 97029.32075471699,
+      "std_ms": 1536.7923483870525,
+      "p10": 94929.0,
+      "p50": 97202.0,
+      "p90": 98607.0
+    }
+  ],
+  "pits_by_driver": [],
+  "has_weather": true,
+  "earlier_memory_usage_mb": 0.5095605850219727,
+  "optimized_memory_usage_mb": 0.2513580322265625
+}
