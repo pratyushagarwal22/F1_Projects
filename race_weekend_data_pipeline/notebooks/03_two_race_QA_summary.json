@@ -1,0 +1,521 @@
+{
+  "session_A": "2024_06_R",
+  "session_B": "2024_16_R",
+  "top_improvers_by_avg_pace": [
+    {
+      "driver_number": "63",
+      "full_name": "George Russell",
+      "team": "Mercedes",
+      "avg_ms_s1": 95984.67272727273,
+      "avg_ms_s2": 84137.30612244898,
+      "delta_ms": -11847.36660482375
+    },
+    {
+      "driver_number": "44",
+      "full_name": "Lewis Hamilton",
+      "team": "Mercedes",
+      "avg_ms_s1": 95662.6909090909,
+      "avg_ms_s2": 84015.16326530612,
+      "delta_ms": -11647.527643784779
+    },
+    {
+      "driver_number": "55",
+      "full_name": "Carlos Sainz",
+      "team": "Ferrari",
+      "avg_ms_s1": 95402.18181818182,
+      "avg_ms_s2": 84336.25490196078,
+      "delta_ms": -11065.92691622104
+    },
+    {
+      "driver_number": "81",
+      "full_name": "Oscar Piastri",
+      "team": "McLaren",
+      "avg_ms_s1": 94646.0,
+      "avg_ms_s2": 83625.28571428571,
+      "delta_ms": -11020.71428571429
+    },
+    {
+      "driver_number": "14",
+      "full_name": "Fernando Alonso",
+      "team": "Aston Martin",
+      "avg_ms_s1": 95913.94545454545,
+      "avg_ms_s2": 84896.67346938775,
+      "delta_ms": -11017.271985157699
+    },
+    {
+      "driver_number": "23",
+      "full_name": "Alexander Albon",
+      "team": "Williams",
+      "avg_ms_s1": 96318.07547169812,
+      "avg_ms_s2": 85308.11764705883,
+      "delta_ms": -11009.957824639292
+    },
+    {
+      "driver_number": "10",
+      "full_name": "Pierre Gasly",
+      "team": "Alpine",
+      "avg_ms_s1": 96138.25454545455,
+      "avg_ms_s2": 85522.875,
+      "delta_ms": -10615.379545454547
+    },
+    {
+      "driver_number": "16",
+      "full_name": "Charles Leclerc",
+      "team": "Ferrari",
+      "avg_ms_s1": 94501.46296296296,
+      "avg_ms_s2": 84032.29411764706,
+      "delta_ms": -10469.1688453159
+    },
+    {
+      "driver_number": "3",
+      "full_name": "Daniel Ricciardo",
+      "team": "RB",
+      "avg_ms_s1": 95451.61818181818,
+      "avg_ms_s2": 85392.72549019608,
+      "delta_ms": -10058.892691622095
+    },
+    {
+      "driver_number": "31",
+      "full_name": "Esteban Ocon",
+      "team": "Alpine",
+      "avg_ms_s1": 95915.21818181819,
+      "avg_ms_s2": 85958.38,
+      "delta_ms": -9956.83818181818
+    }
+  ],
+  "halves_comparison": [
+    {
+      "driver_number": "1",
+      "full_name": "Max Verstappen",
+      "H1_x": 92923.0,
+      "H2_x": 91480.0,
+      "delta_halves_s1": -1443.0,
+      "H1_y": 85231.0,
+      "H2_y": 83452.0,
+      "delta_halves_s2": -1779.0
+    },
+    {
+      "driver_number": "10",
+      "full_name": "Pierre Gasly",
+      "H1_x": 93976.0,
+      "H2_x": 92786.0,
+      "delta_halves_s1": -1190.0,
+      "H1_y": 85851.0,
+      "H2_y": 84598.0,
+      "delta_halves_s2": -1253.0
+    },
+    {
+      "driver_number": "11",
+      "full_name": "Sergio Perez",
+      "H1_x": 93198.0,
+      "H2_x": 91569.0,
+      "delta_halves_s1": -1629.0,
+      "H1_y": 85439.0,
+      "H2_y": 83611.0,
+      "delta_halves_s2": -1828.0
+    },
+    {
+      "driver_number": "14",
+      "full_name": "Fernando Alonso",
+      "H1_x": 94219.0,
+      "H2_x": 92482.0,
+      "delta_halves_s1": -1737.0,
+      "H1_y": 85684.5,
+      "H2_y": 83703.0,
+      "delta_halves_s2": -1981.5
+    },
+    {
+      "driver_number": "16",
+      "full_name": "Charles Leclerc",
+      "H1_x": 93118.0,
+      "H2_x": 91576.5,
+      "delta_halves_s1": -1541.5,
+      "H1_y": 84433.0,
+      "H2_y": 83555.0,
+      "delta_halves_s2": -878.0
+    },
+    {
+      "driver_number": "18",
+      "full_name": "Lance Stroll",
+      "H1_x": 93861.0,
+      "H2_x": 92877.5,
+      "delta_halves_s1": -983.5,
+      "H1_y": 86083.5,
+      "H2_y": 84527.5,
+      "delta_halves_s2": -1556.0
+    },
+    {
+      "driver_number": "20",
+      "full_name": "Kevin Magnussen",
+      "H1_x": 94221.0,
+      "H2_x": 92352.0,
+      "delta_halves_s1": -1869.0,
+      "H1_y": 85812.0,
+      "H2_y": 84408.0,
+      "delta_halves_s2": -1404.0
+    },
+    {
+      "driver_number": "22",
+      "full_name": "Yuki Tsunoda",
+      "H1_x": 93936.0,
+      "H2_x": 92024.0,
+      "delta_halves_s1": -1912.0,
+      "H1_y": 87538.0,
+      "H2_y": 88473.0,
+      "delta_halves_s2": 935.0
+    },
+    {
+      "driver_number": "23",
+      "full_name": "Alexander Albon",
+      "H1_x": 94077.5,
+      "H2_x": 92947.0,
+      "delta_halves_s1": -1130.5,
+      "H1_y": 85722.5,
+      "H2_y": 84678.0,
+      "delta_halves_s2": -1044.5
+    },
+    {
+      "driver_number": "24",
+      "full_name": "Guanyu Zhou",
+      "H1_x": 94318.0,
+      "H2_x": 92944.5,
+      "delta_halves_s1": -1373.5,
+      "H1_y": 86177.0,
+      "H2_y": 85759.5,
+      "delta_halves_s2": -417.5
+    },
+    {
+      "driver_number": "27",
+      "full_name": "Nico Hulkenberg",
+      "H1_x": 94099.0,
+      "H2_x": 92504.0,
+      "delta_halves_s1": -1595.0,
+      "H1_y": 85586.5,
+      "H2_y": 83991.5,
+      "delta_halves_s2": -1595.0
+    },
+    {
+      "driver_number": "3",
+      "full_name": "Daniel Ricciardo",
+      "H1_x": 94345.0,
+      "H2_x": 92971.0,
+      "delta_halves_s1": -1374.0,
+      "H1_y": 85642.5,
+      "H2_y": 84945.0,
+      "delta_halves_s2": -697.5
+    },
+    {
+      "driver_number": "31",
+      "full_name": "Esteban Ocon",
+      "H1_x": 94068.0,
+      "H2_x": 92521.0,
+      "delta_halves_s1": -1547.0,
+      "H1_y": 86317.0,
+      "H2_y": 84992.0,
+      "delta_halves_s2": -1325.0
+    },
+    {
+      "driver_number": "4",
+      "full_name": "Lando Norris",
+      "H1_x": 93210.5,
+      "H2_x": 91186.0,
+      "delta_halves_s1": -2024.5,
+      "H1_y": 84489.5,
+      "H2_y": 83061.0,
+      "delta_halves_s2": -1428.5
+    },
+    {
+      "driver_number": "44",
+      "full_name": "Lewis Hamilton",
+      "H1_x": 93866.0,
+      "H2_x": 91672.0,
+      "delta_halves_s1": -2194.0,
+      "H1_y": 84912.0,
+      "H2_y": 82968.0,
+      "delta_halves_s2": -1944.0
+    },
+    {
+      "driver_number": "55",
+      "full_name": "Carlos Sainz",
+      "H1_x": 93136.0,
+      "H2_x": 91523.0,
+      "delta_halves_s1": -1613.0,
+      "H1_y": 85036.0,
+      "H2_y": 83722.0,
+      "delta_halves_s2": -1314.0
+    },
+    {
+      "driver_number": "63",
+      "full_name": "George Russell",
+      "H1_x": 93875.5,
+      "H2_x": 92304.0,
+      "delta_halves_s1": -1571.5,
+      "H1_y": 84878.5,
+      "H2_y": 82939.0,
+      "delta_halves_s2": -1939.5
+    },
+    {
+      "driver_number": "77",
+      "full_name": "Valtteri Bottas",
+      "H1_x": 94175.5,
+      "H2_x": 92947.0,
+      "delta_halves_s1": -1228.5,
+      "H1_y": 86520.5,
+      "H2_y": 85143.0,
+      "delta_halves_s2": -1377.5
+    },
+    {
+      "driver_number": "81",
+      "full_name": "Oscar Piastri",
+      "H1_x": 93075.0,
+      "H2_x": 92044.5,
+      "delta_halves_s1": -1030.5,
+      "H1_y": 84494.0,
+      "H2_y": 82945.0,
+      "delta_halves_s2": -1549.0
+    }
+  ],
+  "consistency_comparison": [
+    {
+      "driver_number": "55",
+      "full_name": "Carlos Sainz",
+      "std_ms_s1": 11007.655661016795,
+      "laps_s1": 55,
+      "std_ms_s2": 1054.8300307279392,
+      "laps_s2": 51,
+      "delta_std": -9952.825630288857
+    },
+    {
+      "driver_number": "16",
+      "full_name": "Charles Leclerc",
+      "std_ms_s1": 8780.786533113755,
+      "laps_s1": 55,
+      "std_ms_s2": 859.6738752368249,
+      "laps_s2": 51,
+      "delta_std": -7921.11265787693
+    },
+    {
+      "driver_number": "44",
+      "full_name": "Lewis Hamilton",
+      "std_ms_s1": 9263.169129872318,
+      "laps_s1": 55,
+      "std_ms_s2": 1432.6043351611265,
+      "laps_s2": 49,
+      "delta_std": -7830.564794711192
+    },
+    {
+      "driver_number": "81",
+      "full_name": "Oscar Piastri",
+      "std_ms_s1": 8603.088866169854,
+      "laps_s1": 53,
+      "std_ms_s2": 1107.3431416382873,
+      "laps_s2": 49,
+      "delta_std": -7495.745724531566
+    },
+    {
+      "driver_number": "11",
+      "full_name": "Sergio Perez",
+      "std_ms_s1": 8788.539077918063,
+      "laps_s1": 53,
+      "std_ms_s2": 1436.516527817874,
+      "laps_s2": 49,
+      "delta_std": -7352.02255010019
+    },
+    {
+      "driver_number": "1",
+      "full_name": "Max Verstappen",
+      "std_ms_s1": 8631.601092253577,
+      "laps_s1": 55,
+      "std_ms_s2": 1422.337162947665,
+      "laps_s2": 49,
+      "delta_std": -7209.263929305912
+    },
+    {
+      "driver_number": "63",
+      "full_name": "George Russell",
+      "std_ms_s1": 8724.530298414133,
+      "laps_s1": 55,
+      "std_ms_s2": 1584.0302922724595,
+      "laps_s2": 49,
+      "delta_std": -7140.500006141673
+    },
+    {
+      "driver_number": "23",
+      "full_name": "Alexander Albon",
+      "std_ms_s1": 8029.355877147731,
+      "laps_s1": 53,
+      "std_ms_s2": 1217.4296964844996,
+      "laps_s2": 51,
+      "delta_std": -6811.926180663231
+    },
+    {
+      "driver_number": "31",
+      "full_name": "Esteban Ocon",
+      "std_ms_s1": 8361.159200358365,
+      "laps_s1": 55,
+      "std_ms_s2": 1593.1168640275532,
+      "laps_s2": 50,
+      "delta_std": -6768.042336330811
+    },
+    {
+      "driver_number": "14",
+      "full_name": "Fernando Alonso",
+      "std_ms_s1": 8165.690092218472,
+      "laps_s1": 55,
+      "std_ms_s2": 1500.546489168686,
+      "laps_s2": 49,
+      "delta_std": -6665.143603049786
+    },
+    {
+      "driver_number": "10",
+      "full_name": "Pierre Gasly",
+      "std_ms_s1": 8113.441728067527,
+      "laps_s1": 55,
+      "std_ms_s2": 1639.5177368892505,
+      "laps_s2": 48,
+      "delta_std": -6473.923991178277
+    },
+    {
+      "driver_number": "3",
+      "full_name": "Daniel Ricciardo",
+      "std_ms_s1": 5916.9314259727,
+      "laps_s1": 55,
+      "std_ms_s2": 1257.2902939008395,
+      "laps_s2": 51,
+      "delta_std": -4659.64113207186
+    },
+    {
+      "driver_number": "22",
+      "full_name": "Yuki Tsunoda",
+      "std_ms_s1": 8113.351296553073,
+      "laps_s1": 55,
+      "std_ms_s2": 3582.66636273414,
+      "laps_s2": 6,
+      "delta_std": -4530.684933818933
+    },
+    {
+      "driver_number": "24",
+      "full_name": "Guanyu Zhou",
+      "std_ms_s1": 6092.19902727076,
+      "laps_s1": 55,
+      "std_ms_s2": 1713.480675736515,
+      "laps_s2": 50,
+      "delta_std": -4378.718351534245
+    },
+    {
+      "driver_number": "77",
+      "full_name": "Valtteri Bottas",
+      "std_ms_s1": 5644.842170696667,
+      "laps_s1": 53,
+      "std_ms_s2": 1827.3619991447601,
+      "laps_s2": 50,
+      "delta_std": -3817.480171551907
+    },
+    {
+      "driver_number": "27",
+      "full_name": "Nico Hulkenberg",
+      "std_ms_s1": 5512.936283891432,
+      "laps_s1": 53,
+      "std_ms_s2": 1867.3908314242235,
+      "laps_s2": 48,
+      "delta_std": -3645.5454524672086
+    },
+    {
+      "driver_number": "18",
+      "full_name": "Lance Stroll",
+      "std_ms_s1": 5549.391777365673,
+      "laps_s1": 53,
+      "std_ms_s2": 1978.0275658361622,
+      "laps_s2": 46,
+      "delta_std": -3571.3642115295106
+    },
+    {
+      "driver_number": "4",
+      "full_name": "Lando Norris",
+      "std_ms_s1": 4166.107590877857,
+      "laps_s1": 55,
+      "std_ms_s2": 1286.5298676440211,
+      "laps_s2": 49,
+      "delta_std": -2879.5777232338355
+    },
+    {
+      "driver_number": "20",
+      "full_name": "Kevin Magnussen",
+      "std_ms_s1": 2391.216594121076,
+      "laps_s1": 51,
+      "std_ms_s2": 1541.0433397221418,
+      "laps_s2": 51,
+      "delta_std": -850.1732543989342
+    }
+  ],
+  "team_pace_comparison": [
+    {
+      "team": "Mercedes",
+      "avg_ms_s1": 95823.68181818182,
+      "avg_ms_s2": 84076.23469387754,
+      "delta_ms": -11747.447124304279
+    },
+    {
+      "team": "Ferrari",
+      "avg_ms_s1": 94955.95412844037,
+      "avg_ms_s2": 84184.27450980392,
+      "delta_ms": -10771.679618636452
+    },
+    {
+      "team": "Williams",
+      "avg_ms_s1": 95899.46153846153,
+      "avg_ms_s2": 85443.20588235294,
+      "delta_ms": -10456.255656108595
+    },
+    {
+      "team": "Alpine",
+      "avg_ms_s1": 96026.73636363636,
+      "avg_ms_s2": 85745.07142857143,
+      "delta_ms": -10281.664935064924
+    },
+    {
+      "team": "Aston Martin",
+      "avg_ms_s1": 95426.93518518518,
+      "avg_ms_s2": 85188.53684210527,
+      "delta_ms": -10238.398343079913
+    },
+    {
+      "team": "McLaren",
+      "avg_ms_s1": 93806.12264150943,
+      "avg_ms_s2": 83671.17346938775,
+      "delta_ms": -10134.949172121676
+    },
+    {
+      "team": "Red Bull Racing",
+      "avg_ms_s1": 94367.43925233645,
+      "avg_ms_s2": 84448.8163265306,
+      "delta_ms": -9918.622925805845
+    },
+    {
+      "team": "RB",
+      "avg_ms_s1": 95272.97272727273,
+      "avg_ms_s2": 85813.66666666667,
+      "delta_ms": -9459.30606060606
+    },
+    {
+      "team": "Haas F1 Team",
+      "avg_ms_s1": 94352.875,
+      "avg_ms_s2": 85205.0101010101,
+      "delta_ms": -9147.864898989894
+    },
+    {
+      "team": "Kick Sauber",
+      "avg_ms_s1": 95280.25,
+      "avg_ms_s2": 86311.58,
+      "delta_ms": -8968.669999999998
+    }
+  ],
+  "weather_summary_session_A": [
+    {
+      "air_temp_c": 28.521999999999995,
+      "track_temp_c": 44.664,
+      "humidity_pct": 59.00666666666667,
+      "wind_speed_mps": 0.8557407407407408
+    }
+  ]
+}
